@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog created with Rails referencing:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- tutorial: https://www.youtube.com/watch?v=i2x995hm8r8
+- Bootstrap theme: https://startbootstrap.com/template-overviews/freelancer/
+- Devise gem
+- Active_admin for admin login
