@@ -8,14 +8,19 @@ Blog created with Rails referencing:
 - Devise gem
 - Active_admin for admin login
 
+<hr>
+
 > Adding a new post
 
 ![new post](https://i.imgur.com/rqjIBMc.png)
 
+<hr>
 
 > Index view
 
 ![index](https://i.imgur.com/Bk4LRfo.png)
+
+<hr>
 
 > Show page
 
