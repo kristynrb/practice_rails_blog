@@ -2,7 +2,7 @@
 
 Blog created with Rails referencing:
 
-- tutorial: https://www.youtube.com/watch?v=i2x995hm8r8
+- Tutorial: https://www.youtube.com/watch?v=i2x995hm8r8
 - Bootstrap themes: 
   - Freelancer: https://startbootstrap.com/template-overviews/freelancer/
   - Portfolio Item: https://startbootstrap.com/template-overviews/portfolio-item/
